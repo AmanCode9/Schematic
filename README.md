@@ -1,4 +1,4 @@
-# Schematic 🚀
+# Schematic 
 **Engineered Content Generation via Structured Style Deconstruction**
 
 **Schematic** is a content engineering tool designed to replicate specific professional writing styles. Instead of relying on generic AI prompts, it deconstructs successful LinkedIn posts into structured JSON "blueprints." By utilizing **Few-Shot Learning**, the system guides Large Language Models (LLMs) to mirror the exact hooks, structure, and tone of a target creator.
